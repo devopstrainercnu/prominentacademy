@@ -1,0 +1,5 @@
+This is empty file
+
+This is second line in empty.txt file
+
+This is third line in empty.txt file
